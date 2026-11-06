@@ -21,7 +21,6 @@ Software que automatiza el proceso de titulación y certificación del Instituto
 ##  Estructura del Proyecto
 - `docs/bpmn/` → Diagrama del proceso de negocio
 - `docs/datos/` → Diccionario de datos
-- `docs/historias/` → Historias de Usuario
 - `Entregas/` → Documentos de las entregas 1, 2 y 3
 
 ---
