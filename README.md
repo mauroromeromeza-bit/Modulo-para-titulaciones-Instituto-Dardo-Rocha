@@ -9,7 +9,7 @@ Sistema de gestión de títulos, ISDR, conectado con TGD Chaco
 
 # Enlaces
 - **Repositorio:** https://github.com/mauroromeromeza-bit/Modulo-para-titulaciones-Instituto-Dardo-Rocha
-- **Tablero de Gestión Ágil:** [lo completás después]
+- **Tablero de Gestión Ágil:** https://github.com/users/mauroromeromeza-bit/projects/1/views/1
 
 ---
 
